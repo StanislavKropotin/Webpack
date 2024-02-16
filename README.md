@@ -1,13 +1,13 @@
 # Webpack
 
-Настроеный Webpack со следующими возможностями:
+Configured Webpack with the following features:
 
-• Установлен и настроен webpack-dev-server.
+• Webpack-dev-server installed and configured.
 
-• Настроен hot module replacement.
+• Hot module replacement is configured.
 
-• Есть возможность запуска на разных окружениях (dev, prod) c разной конфигурацией (например, убрать HMR на проде)
+• It is possible to run on different environments (dev, prod) with different configurations (for example, remove HMR on prod)
 
-• Настроен JSON-server с которого отображаются полученные данные.
+• The JSON server from which the received data is displayed is configured.
 
-• Добавлен запуск линтера при комите.
+• Added launch of linter on commit.
