@@ -1,0 +1,29 @@
+{
+    "Universe": [
+        {
+            "id": 1,
+            "name": "Marvel"
+        },
+        {
+            "id": 2,
+            "name": "DC"
+        }
+    ],
+    "Hero": [
+        {
+            "id": 1,
+            "name": "Spider-Man",
+            "authorId": 1
+        },
+        {
+            "id": 2,
+            "name": "Batman",
+            "authorId": 2
+        },
+        {
+            "id": 3,
+            "name": "Iron-Man",
+            "authorId": 1
+        }
+    ]
+}
